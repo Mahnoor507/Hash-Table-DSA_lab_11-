@@ -16,10 +16,10 @@ output
 79 umair
 74 junaid
 
-Delete (79 umair)   (and check the output)
+Delete (74 junaid)   (and check the output)
 
 60 umair
 71 afnan
 60 umair
+79 umair
 EMPTY
-74 junaid
