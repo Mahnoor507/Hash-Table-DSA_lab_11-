@@ -1,6 +1,6 @@
 #include"Header.h"
 
-void main()
+int main()
 {
 	int size = 0;
 	cout << "HASH_table SIZE : : ";
@@ -69,4 +69,5 @@ void main()
 	}
 	else
 		cout << "INVAlID SIZE\n";
+return 0;
 }
